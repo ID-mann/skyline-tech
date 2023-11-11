@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+width: 80%;
+margin: 50px auto;
+}
+
+table {
+    width: 100%;
+ 
+
+}
+
+i {
+    font-weight: 700;
+}
+
+caption {
+    background-color: darkgray;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border-top: 1px solid;
+    border-collapse: collapse;
+    padding: 12px;
+    font-size: 18px;
+    border-spacing: 20px;
+
+
+}
+
+th {
+    background-color: dodgerblue;
+    width: 23%;
+}
+
+section {
+    margin: 10px ;
+}
